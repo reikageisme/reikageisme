@@ -86,6 +86,47 @@
 
 <br/>
 
+<!-- [NEW] SECTION: MISSION LOG (Bảng thành tích CTF) -->
+<h2 align="center">📜 MISSION LOG: 2025 CAMPAIGNS</h2>
+<div align="center">
+  <table style="border-collapse: collapse; border: 2px solid #b026ff; border-radius: 10px; overflow: hidden; width: 90%;">
+    <tr style="background-color: #1a0b2e; color: #00ffea;">
+      <th style="padding: 10px; border-bottom: 1px solid #b026ff;">🚩 EVENT (CHIẾN DỊCH)</th>
+      <th style="padding: 10px; border-bottom: 1px solid #b026ff;">🏆 RANK</th>
+      <th style="padding: 10px; border-bottom: 1px solid #b026ff;">💯 SCORE</th>
+      <th style="padding: 10px; border-bottom: 1px solid #b026ff;">🕵️‍♂️ STATUS</th>
+    </tr>
+    
+    <!-- Row 1: GlacierCTF -->
+    <tr style="background-color: #0d1117; border-bottom: 1px solid #30363d;">
+      <td align="center" style="padding: 8px;"><b>GlacierCTF 2025</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/Rank-136-blue?style=flat-square&logo=glitch"></td>
+      <td align="center"><code style="color: #ff005c">450 pts</code></td>
+      <td align="center">✅ COMPLETED</td>
+    </tr>
+    
+    <!-- Row 2: M*CTF (Top 100 - Highlight) -->
+    <tr style="background-color: #161b22; border-bottom: 1px solid #30363d;">
+      <td align="center" style="padding: 8px;"><b>M*CTF 2025 Quals</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/Rank-92-brightgreen?style=flat-square&logo=hackthebox&logoColor=white"></td>
+      <td align="center"><code style="color: #ff005c">201 pts</code></td>
+      <td align="center">🔥 TOP 100</td>
+    </tr>
+
+    <!-- Row 3: AmateursCTF -->
+    <tr style="background-color: #0d1117;">
+      <td align="center" style="padding: 8px;"><b>AmateursCTF 2025</b></td>
+      <td align="center"><img src="https://img.shields.io/badge/Rank-491-lightgrey?style=flat-square"></td>
+      <td align="center"><code style="color: #ff005c">10 pts</code></td>
+      <td align="center">⚠️ PARTICIPATED</td>
+    </tr>
+  </table>
+  <br/>
+  <i><a href="https://ctftime.org/team/412747" style="color: #8b949e; text-decoration: none;">👉 Check Legit at CTFtime Team Profile</a></i>
+</div>
+
+<br/>
+
 <!-- FULL TOOLKIT -->
 <h3 align="center">🛠️ INVENTORY 🛠️</h3>
 <div align="center">
