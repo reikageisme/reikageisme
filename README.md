@@ -96,7 +96,6 @@
       <th style="padding: 10px; border-bottom: 1px solid #b026ff;">💯 SCORE</th>
       <th style="padding: 10px; border-bottom: 1px solid #b026ff;">🕵️‍♂️ STATUS</th>
     </tr>
-    
     <!-- Row 1: GlacierCTF -->
     <tr style="background-color: #0d1117; border-bottom: 1px solid #30363d;">
       <td align="center" style="padding: 8px;"><b>GlacierCTF 2025</b></td>
@@ -104,7 +103,6 @@
       <td align="center"><code style="color: #ff005c">450 pts</code></td>
       <td align="center">✅ COMPLETED</td>
     </tr>
-    
     <!-- Row 2: M*CTF (Top 100 - Highlight) -->
     <tr style="background-color: #161b22; border-bottom: 1px solid #30363d;">
       <td align="center" style="padding: 8px;"><b>M*CTF 2025 Quals</b></td>
@@ -112,7 +110,6 @@
       <td align="center"><code style="color: #ff005c">201 pts</code></td>
       <td align="center">🔥 TOP 100</td>
     </tr>
-
     <!-- Row 3: AmateursCTF -->
     <tr style="background-color: #0d1117;">
       <td align="center" style="padding: 8px;"><b>AmateursCTF 2025</b></td>
