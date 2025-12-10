@@ -93,6 +93,7 @@
 | 🚩 EVENT (CHIẾN DỊCH) | 🏆 RANK | 💯 SCORE | 🕵️‍♂️ STATUS |
 | :--- | :---: | :---: | :---: |
 | **🔥 HUTECH CTF 2025 - THE MAZE OF SHADOWS** | ![](https://img.shields.io/badge/RANK-TOP_3-FFD700?style=flat-square&logo=hackthebox&logoColor=black) | `4559 pts` | 👑 **LEGENDARY** |
+| **WannaGame Championship 2025** | ![](https://img.shields.io/badge/Rank-38-00ffea?style=flat-square&logo=hackthebox&logoColor=black) | `3200 pts` | 🔥 TOP 38 |
 | **GlacierCTF 2025** | ![](https://img.shields.io/badge/Rank-136-blue?style=flat-square&logo=glitch) | `450 pts` | ✅ COMPLETED |
 | **M*CTF 2025 Quals** | ![](https://img.shields.io/badge/Rank-92-brightgreen?style=flat-square&logo=hackthebox&logoColor=white) | `201 pts` | 🔥 TOP 100 |
 
