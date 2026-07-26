@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HEADER: ANIME HACKER ROOM (Link siêu bền) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejduajA4ZG1ucHdxb3hvNTBtN3hhZXo1N2RjYWh0YTdkMmNsbThpZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9pD7N4ap3bsgBN3XQV/giphy.gif" width="100%" height="280px" style="object-fit: cover; border-radius: 10px; border: 2px solid #00ffea; opacity: 0.9;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhvaG8ya3U3ZDJzMjQ3YjNlbDFsNzQwZTNzNWM5eGR1NGl0ZDN4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CSpeNUBGowX81pnnFh/giphy.gif" width="100%" height="280px" style="object-fit: cover; border-radius: 10px; border: 2px solid #00ffea; opacity: 0.9;">
 
   <br/>
 
@@ -29,7 +29,7 @@
     <tr>
       <td width="30%" align="center" style="border: none;">
         <!-- GIF Avatar bên trái -->
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejduajA4ZG1ucHdxb3hvNTBtN3hhZXo1N2RjYWh0YTdkMmNsbThpZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Di10kpihU4dyXY2v14/giphy.gif" width="160" style="border-radius: 5px; box-shadow: 0 0 15px #ff005c; border: 1px solid #ff005c;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejduajA4ZG1ucHdxb3hvNTBtN3hhZXo1N2RjYWh0YTdkMmNsbThpZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PPqOo4mSdbXQEhpkMI/giphy.gif" width="160" style="border-radius: 5px; box-shadow: 0 0 15px #ff005c; border: 1px solid #ff005c;">
         <br/><br/>
         <img src="https://img.shields.io/badge/STATUS-COMPROMISED-red?style=for-the-badge">
       </td>
