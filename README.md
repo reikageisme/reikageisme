@@ -15,7 +15,7 @@
   <!-- MARQUEE: TỐC ĐỘ CAO & TÊN TEAM 6h4T 9pT pR0 -->
   <div style="background-color: #0d0221; border-top: 2px dashed #00ffea; border-bottom: 2px dashed #ff005c; padding: 8px;">
     <marquee behavior="scroll" direction="left" scrollamount="15" style="color: #00ffea; font-family: 'Consolas', monospace; font-size: 16px; text-shadow: 0 0 5px #00ffea;">
-      🚀 <b>SYSTEM STATUS:</b> ONLINE // 🐱‍💻 <b>USER:</b> REIKAGE // 🏆 <b>CLAN:</b> 6h4T 9pT pR0 // 💀 <b>MAIN SKILLS:</b> WEB & PWN // 🍜 <b>FUEL:</b> INSTANT NOODLES & MONSTER ENERGY // ⚠️ <b>WARNING:</b> SEGMENTATION FAULT DETECTED // 👾 <b>WAIFU:</b> PROTECTED AT KERNEL LEVEL // 🔓 <b>6h4T 9pT pR0:</b> WE HACK TO RECLAIM OUR FUTURE // 💉 <b>INJECTING:</b> SQL MAP... SUCCESS! // 🚧 <b>REV:</b> LEARNING... // 👺 <b>MODE:</b> SERIOUS WEB EXPLOITATION // 🏯 <b>OTAKU LEVEL:</b> OVER 9000!!!
+      🚀 <b>SYSTEM STATUS:</b> ONLINE // 🐱‍💻 <b>USER:</b> REIKAGE // 🏆 <b>CLAN:</b> 6h4T 9pT pR0 // 💀 <b>MAIN SKILLS:</b> WEB & REV // 🍜 <b>FUEL:</b> INSTANT NOODLES & MONSTER ENERGY // ⚠️ <b>WARNING:</b> SEGMENTATION FAULT DETECTED // 👾 <b>WAIFU:</b> PROTECTED AT KERNEL LEVEL // 🔓 <b>6h4T 9pT pR0:</b> WE HACK TO RECLAIM OUR FUTURE // 💉 <b>INJECTING:</b> SQL MAP... SUCCESS! // 🚧 <b>REV:</b> LEARNING... // 👺 <b>MODE:</b> SERIOUS WEB EXPLOITATION // 🏯 <b>OTAKU LEVEL:</b> OVER 9000!!!
     </marquee>
   </div>
 
@@ -38,7 +38,7 @@
         <ul style="list-style-type: square; color: #d4d4d4;">
           <li>👤 <b>Codename:</b> ReiKage (reikageisme)</li>
           <li>🏰 <b>Guild:</b> <a href="https://ctftime.org/team/412747"><b style="color: #ff005c;">[6h4T 9pT pR0]</b></a></li>
-          <li>⚔️ <b>Class:</b> <code>Web Exploiter</code> & <code>Pwn Master</code></li>
+          <li>⚔️ <b>Class:</b> <code>Web Exploiter</code> & <code>Reverse Engineer</code></li>
           <li>🛡️ <b>Defense:</b> 0 (Full Attack Speed)</li>
           <li>🎌 <b>Hobby:</b> Breaking Binaries & Watching Seasonal Anime.</li>
           <li>🔧 <b>Current Goal:</b> RCE the Universe with my Team.</li>
